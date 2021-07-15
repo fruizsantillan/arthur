@@ -62,12 +62,16 @@ nav ul li a {
 .imagenes {
   background: #212121;
 }
+
 .card {
   margin: 20px;
+  position: inherit;
 }
+
 .pic {
   padding: 20px;
 }
+
 .content {
   padding: 10px;
   text-align: center;
