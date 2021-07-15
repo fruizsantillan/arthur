@@ -59,12 +59,23 @@ nav ul li a {
   padding-bottom: 20px;
 }
 
+.imagenes {
+  background: #212121;
+}
 .card {
-  float: left;
+  margin: 20px;
+}
+.pic {
   padding: 20px;
-  width: 50%;
+}
+.content {
+  padding: 10px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #212121;
 }
 
-.col-md-4 {
-  float: left;
+.spotify {
+  margin: 20px;
+  padding: 20px;
 }
