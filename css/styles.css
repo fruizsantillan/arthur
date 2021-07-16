@@ -60,7 +60,7 @@ nav ul li a {
 }
 
 .imagenes {
-  background: #212121;
+  background: #ffffff;
 }
 
 .card {
@@ -82,4 +82,12 @@ nav ul li a {
 .spotify {
   margin: 20px;
   padding: 20px;
+  background: #f8bbd0;
+}
+
+.album {
+  text-align: left;
+  font-size: 99px;
+  margin: 0 auto;
+  font-family: "Bebas Neue", cursive;
 }
