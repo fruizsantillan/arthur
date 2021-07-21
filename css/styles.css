@@ -95,7 +95,6 @@ nav ul li a {
   font-family: "Bebas Neue", cursive;
 }
 
-<<<<<<< HEAD
 footer {
   font-family: "Open Sans", sans-serif;
   color: #212121;
@@ -156,14 +155,3 @@ footer {
   padding: 20px;
   width: 100px;
   height: 100px;
-=======
-
-/* -- SHOWS -- */
-
-.principal {
-  font-family: 'New Rocker', cursive;
-  font-size: 185px;
-  text-align: center;
-  margin: 90px auto;
->>>>>>> fc4b7b48ab9135eb9e9a249940f4c4b072743976
-}
